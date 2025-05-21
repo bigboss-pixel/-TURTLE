@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Turtle Token - Meme Coin dengan Misi</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #1a1a1a; color: #fff; }
+    header { background: #2c3e50; padding: 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 2.5em; }
+    section { padding: 50px 20px; text-align: center; }
+    .tokenomics, .roadmap { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+    .card { background: #34495e; border-radius: 8px; padding: 20px; width: 250px; }
+    footer { background: #2c3e50; padding: 10px; text-align: center; }
+    a { color: #1abc9c; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Turtle Token</h1>
+  <p>Meme Coin dengan Misi</p>
+</header>
+
+<section>
+  <h2>Selamat Datang di Turtle Token!</h2>
+  <p>Token komunitas yang mengutamakan pertumbuhan lambat namun pasti di Binance Smart Chain.</p>
+</section>
+
+<section>
+  <h2>Tokenomics</h2>
+  <div class="tokenomics">
+    <div class="card">
+      <h3>Total Supply</h3>
+      <p>1.000.000.000</p>
+    </div>
+    <div class="card">
+      <h3>Buy/Sell Tax</h3>
+      <p>2% (1% likuiditas, 1% pemasaran)</p>
+    </div>
+    <div class="card">
+      <h3>Distribusi</h3>
+      <p>50% Publik, 30% Likuiditas, 10% Pengembang, 10% Burn</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Roadmap</h2>
+  <div class="roadmap">
+    <div class="card">
+      <h3>Q2 2025</h3>
+      <p>Peluncuran & Pembangunan Komunitas</p>
+    </div>
+    <div class="card">
+      <h3>Q3 2025</h3>
+      <p>Listing di CoinGecko & CoinMarketCap</p>
+    </div>
+    <div class="card">
+      <h3>Q4 2025</h3>
+      <p>Peluncuran NFT Koleksi Turtle</p>
+    </div>
+    <div class="card">
+      <h3>2026</h3>
+      <p>Peluncuran Turtle DAO</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Cara Membeli</h2>
+  <p>Tambahkan kontrak Turtle Token ke dompet Anda dan beli melalui PancakeSwap.</p>
+  <p><a href="https://pancakeswap.finance/swap?outputCurrency=0x1234567890abcdef" target="_blank">Beli di PancakeSwap</a></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Turtle Token. Semua hak dilindungi.</p>
+  <p><a href="https://t.me/TurtleToken" target="_blank">Gabung Telegram</a> | <a href="https://twitter.com/TurtleToken" target="_blank">Ikuti Twitter</a></p>
+</footer>
+
+</body>
+</html>
